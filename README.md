@@ -6,8 +6,17 @@ Sou Bruno Martins um desenvolvedor apaixonado por tecnologia. sou formado em An�
 <br>
 
 ## 🛠️ Minhas Habilidades / My Skills
+### FRONTEND ###
+[![My Skills](https://skillicons.dev/icons?i=vue,tailwind,bootstrap,js,jquery,css,html)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vue,laravel,python,tailwind,bootstrap,docker,git,js,mysql,)](https://skillicons.dev)
+### BACKEND ### 
+[![My Skills](https://skillicons.dev/icons?i=laravel,python,mysql,mongodb)](https://skillicons.dev)
+
+### BANCO DE DADOS / DATABASES ### 
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
+
+### OUTRAS/OTHERS ### 
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,linux,ubuntu,opencv)](https://skillicons.dev)
 
 <br>
 <br>
