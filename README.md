@@ -32,7 +32,7 @@ Sinta-se à vontade para entrar em contato comigo através do LinkedIn / Feel fr
 <br>
 <br>
 
-## 📫 Minhas EstAtísticas / My Stats
+## 📫 Minhas Estatísticas / My Stats
 ![bnomartins's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnomartins&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnomartins&layout=compact&theme=onedark)](https://github.com/bnomartins/github-readme-stats)
 
