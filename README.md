@@ -1,7 +1,8 @@
-# Olá, Mundo! / Hello, World! 👋
+# Olá, Mundo! Eu sou o Bruno / Hello, World! I'm Bruno 👋
 
-Sou Bruno Martins um desenvolvedor apaixonado por tecnologia. sou formado em Análise e Desenvolvimento de Software e pós graduado em Gestão da Inovação./ I'm Bruno Martins a developer passionate about technology. I have a degree in Software Analysis and Development and a postgraduate degree in Innovation Management.
+Sou desenvolvedor com uma paixão profunda por tecnologia. Minha formação acadêmica inclui uma graduação em Análise e Desenvolvimento de Software, além de uma pós-graduação em Gestão da Inovação / I'm a developer with a deep passion for technology. My academic background includes a degree in Software Analysis and Development, as well as a postgraduate degree in Innovation Management.
 
+Minha paixão pela tecnologia não se limita apenas ao desenvolvimento de software. Ela se estende à inovação e à maneira como ela pode ser gerenciada para criar soluções impactantes. Estou sempre buscando novas maneiras de aplicar minha experiência e conhecimento para resolver desafios complexos e impulsionar o progresso tecnológico. / My passion for technology is not just limited to software development. It extends to innovation and how it can be managed to create impactful solutions. I'm always looking for new ways to apply my experience and knowledge to solve complex challenges and drive technological progress.
 <br>
 <br>
 
